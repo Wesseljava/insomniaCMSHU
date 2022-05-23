@@ -1,0 +1,39 @@
+_id: req_9978a76f17fd4ddcb1869ff94ed85495
+type: Request
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1653298913972
+created: 1653295885042
+url: localhost:5000/api/injectobject
+name: injectobject
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"firstname": "Tien",
+    	"surname": "Laanszwaaier",
+    	"address": "de Meern, langeweg 3, 4019XS",
+    	"description": "Omschrijving text x10",
+    	"startYear": "1980",
+    	"endYear": "1992",
+    	"objectType": "2",
+    	"name": "Tien Laanszwaaier",
+    	"latitude": " 21.923912",
+    	"longitude": "42.3129032",
+    	"subtype": "tuinder"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_67a1916e891942cf9e05aae3877928bc
+authentication: {}
+metaSortKey: -1653295885042
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
