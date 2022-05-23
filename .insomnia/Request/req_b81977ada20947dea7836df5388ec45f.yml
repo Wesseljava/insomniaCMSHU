@@ -1,0 +1,29 @@
+_id: req_b81977ada20947dea7836df5388ec45f
+type: Request
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1653307093178
+created: 1653303218481
+url: localhost:5000/api/deleteobject
+name: deleteObjectv
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id" : "14"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b2c4f0f7b1a340aeabee9cfba4f65b5c
+authentication: {}
+metaSortKey: -1653303218481
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
