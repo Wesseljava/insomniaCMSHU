@@ -1,0 +1,32 @@
+_id: req_61e1ba4caedb4e3bbe3cb494607e3984
+type: Request
+parentId: fld_1813f65929364496a8a6279290f66fbd
+modified: 1653481086836
+created: 1653480890449
+url: localhost:5000/api/insertimage
+name: addImage
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"file": "https://www.youtube.com/watch?v=LrLcRCLwE7c",
+    	"name": "imsage",
+    	"objectId": "23",
+    	"categories": "23tywerte"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a752e50811244091b3a57d8232c54be5
+authentication: {}
+metaSortKey: -1653480890449
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

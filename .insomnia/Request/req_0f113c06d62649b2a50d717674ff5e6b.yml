@@ -1,0 +1,32 @@
+_id: req_0f113c06d62649b2a50d717674ff5e6b
+type: Request
+parentId: fld_6de5342be62a49a59a88d9ed117a31d7
+modified: 1653556276181
+created: 1653476585241
+url: localhost:5000/api/insertvideo
+name: addVideo
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"file": "https://www.youtube.com/watch?v=LrLcRCLwE7c",
+    	"name": "video2",
+    	"objectId": "22",
+    	"categories": "23tywerte"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_acca6c38cadc4c36941e17aa53ef9a54
+authentication: {}
+metaSortKey: -1653478215141
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

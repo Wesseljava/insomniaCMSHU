@@ -1,0 +1,32 @@
+_id: req_4b362bffb4f44eb7a1a2117b8eb05892
+type: Request
+parentId: fld_08eb037001f0454fa5e9e09896827be7
+modified: 1653481058732
+created: 1653416680737
+url: localhost:5000/api/insertaudio
+name: addAudio
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"file": "https://www.youtube.com/watch?v=LrLcRCLwE7c",
+    	"name": "soundclip",
+    	"objectId": "22",
+    	"categories": "23tywerte"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_722d9f8bb9c0490fa6a1ca6fcbb5fac2
+authentication: {}
+metaSortKey: -1653470080454
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
