@@ -1,7 +1,7 @@
 _id: req_9978a76f17fd4ddcb1869ff94ed85495
 type: Request
-parentId: wrk_815792eb77c74987a5845236e01c8734
-modified: 1653476963691
+parentId: fld_58049c7f838d49e1881464b612a26f40
+modified: 1653839083557
 created: 1653295885042
 url: localhost:5000/api/addobject
 name: addobject
@@ -11,15 +11,15 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"firstname": "Tien",
-    	"surname": "Laanszwaaier",
+    	"firstname": "Kees",
+    	"surname": "WESSEL ZIJN TEST OBJECT",
     	"address": "de Meern langeweg 3 4019XS",
     	"description": "Omschrijving text x10",
     	"startYear": "1980",
     	"endYear": "1992",
     	"objectType": "2",
-    	"name": "Tien Laanszwaaier",
-    	"latitude": " 21.923912",
+    	"name": "WESSEL ZIJN TEST OBJECT",
+    	"latitude": "21.923912",
     	"longitude": "42.3129032",
     	"subtype": "tuinder"
     }
@@ -29,7 +29,7 @@ headers:
     value: application/json
     id: pair_67a1916e891942cf9e05aae3877928bc
 authentication: {}
-metaSortKey: -1653295885042
+metaSortKey: -1653838847622
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
