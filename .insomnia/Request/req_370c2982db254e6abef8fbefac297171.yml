@@ -1,9 +1,9 @@
 _id: req_370c2982db254e6abef8fbefac297171
 type: Request
 parentId: fld_45590190486f402d8965adf8863df2b4
-modified: 1653556925951
+modified: 1653833574193
 created: 1653556910486
-url: localhost:5000/api/listallobjecttypes
+url: localhost:5000/api/listallobjecttype
 name: listallobjecttype
 description: ""
 method: GET
