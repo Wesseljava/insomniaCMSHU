@@ -1,26 +1,26 @@
-_id: req_429e75451a3e462994e65d37020e9746
+_id: req_acf23bd0e185485da6170a2da3b96215
 type: Request
-parentId: fld_f9b9afb0fbae48f4af005120720e0201
-modified: 1653907585573
-created: 1649432096286
-url: http://localhost:5000/login
-name: login
+parentId: fld_45590190486f402d8965adf8863df2b4
+modified: 1653907755085
+created: 1653907519572
+url: localhost:5000/api/updateobjecttype
+name: updateobjecttype
 description: ""
-method: POST
+method: PUT
 body:
   mimeType: application/json
   text: |-
     {
-      "username": "admin",
-    	"password": "letmein"
+    	"name": "updatedobjectype",
+    	"id": "12"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_6d0158e7e6e54ace95ef888cb24c01f4
+    id: pair_f34782d388914d7ca82c2a38f9c97d13
 authentication: {}
-metaSortKey: -1653838373482.4111
+metaSortKey: -1653907519572
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

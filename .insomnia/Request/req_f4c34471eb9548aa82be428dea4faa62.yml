@@ -1,26 +1,25 @@
-_id: req_429e75451a3e462994e65d37020e9746
+_id: req_f4c34471eb9548aa82be428dea4faa62
 type: Request
-parentId: fld_f9b9afb0fbae48f4af005120720e0201
-modified: 1653907585573
-created: 1649432096286
-url: http://localhost:5000/login
-name: login
+parentId: fld_45590190486f402d8965adf8863df2b4
+modified: 1653907752190
+created: 1653907473058
+url: localhost:5000/api/insertobjecttype
+name: addObjectType
 description: ""
 method: POST
 body:
   mimeType: application/json
   text: |-
     {
-      "username": "admin",
-    	"password": "letmein"
+    	"name": "testobjecttype"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_6d0158e7e6e54ace95ef888cb24c01f4
+    id: pair_7b886e79f1654d98812640d6df5916d0
 authentication: {}
-metaSortKey: -1653838373482.4111
+metaSortKey: -1653907473058
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
