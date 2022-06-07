@@ -1,27 +1,26 @@
 _id: req_9978a76f17fd4ddcb1869ff94ed85495
 type: Request
 parentId: fld_58049c7f838d49e1881464b612a26f40
-modified: 1653839348648
+modified: 1654600123784
 created: 1653295885042
-url: localhost:5000/api/addobject
+url: localhost:5000/api/insert/object
 name: addobject
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: |-
+  text: >-
     {
-    	"firstname": "Kees",
-    	"surname": "WESSEL ZIJN TEST OBJECT",
-    	"address": "de Meern langeweg 3 4019XS",
-    	"description": "Omschrijving text x10",
+    	"firstname": "Ries",
+    	"surname": "van Diek",
+    	"address": "Bergweg 9 3543DB Utrecht",
+    	"description": "Jan bakker verbouwde tomaten vanaf 1980 tot  1992. LORUM LORUM LORUM??????",
     	"startYear": "1980",
     	"endYear": "1992",
-    	"objectType": "2",
-    	"name": "WESSEL ZIJN TEST OBJECT",
-    	"latitude": "21.923912",
-    	"longitude": "42.3129032",
-    	"subtype": "tuinder"
+    	"objectType": "3",
+    	"name": "Ries van Diek",
+    	"latitude": "52.09439727344883",
+    	"longitude": "5.048919255634794"
     }
 parameters: []
 headers:

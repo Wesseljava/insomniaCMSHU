@@ -1,9 +1,9 @@
 _id: req_416533be3c104277a1feedca328829aa
 type: Request
 parentId: fld_2d941b8f82fd472e8f942829117daaa3
-modified: 1653563210392
+modified: 1654597872378
 created: 1653563196973
-url: localhost:5000/api/listallcoordinates
+url: localhost:5000/api/coordinates
 name: listallcoordinates
 description: ""
 method: GET

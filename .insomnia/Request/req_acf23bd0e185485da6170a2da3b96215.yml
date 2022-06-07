@@ -1,9 +1,9 @@
 _id: req_acf23bd0e185485da6170a2da3b96215
 type: Request
 parentId: fld_45590190486f402d8965adf8863df2b4
-modified: 1653907755085
+modified: 1654596589200
 created: 1653907519572
-url: localhost:5000/api/updateobjecttype
+url: localhost:5000/api/update/objecttype
 name: updateobjecttype
 description: ""
 method: PUT
@@ -11,8 +11,8 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"name": "updatedobjectype",
-    	"id": "12"
+    	"name": "updatedobjectype2",
+    	"id": "2"
     }
 parameters: []
 headers:
