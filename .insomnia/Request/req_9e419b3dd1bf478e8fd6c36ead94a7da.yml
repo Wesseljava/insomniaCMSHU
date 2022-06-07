@@ -1,17 +1,17 @@
-_id: req_1bf7f1d359ab4b0683c60be052276068
+_id: req_9e419b3dd1bf478e8fd6c36ead94a7da
 type: Request
-parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1654600622007
-created: 1653478583116
-url: localhost:5000/api/remove/image/12
-name: delImage
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1654600395853
+created: 1654597091266
+url: localhost:5000/api/person/Leen Mastenbroek
+name: person name
 description: ""
-method: DELETE
+method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1653480407915
+metaSortKey: -1654597091266
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

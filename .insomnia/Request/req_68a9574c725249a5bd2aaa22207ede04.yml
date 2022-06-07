@@ -1,9 +1,9 @@
 _id: req_68a9574c725249a5bd2aaa22207ede04
 type: Request
 parentId: fld_6de5342be62a49a59a88d9ed117a31d7
-modified: 1653481078687
+modified: 1654597909157
 created: 1653478215041
-url: localhost:5000/api/removevideo/1
+url: localhost:5000/api/remove/video/11
 name: delVideo
 description: ""
 method: DELETE

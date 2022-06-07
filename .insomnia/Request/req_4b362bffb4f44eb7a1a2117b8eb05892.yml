@@ -1,9 +1,9 @@
 _id: req_4b362bffb4f44eb7a1a2117b8eb05892
 type: Request
 parentId: fld_08eb037001f0454fa5e9e09896827be7
-modified: 1653830547716
+modified: 1654599139443
 created: 1653416680737
-url: localhost:5000/api/insertaudio
+url: localhost:5000/api/insert/audio
 name: addAudio
 description: ""
 method: POST
@@ -11,9 +11,9 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"file": "https://www.youtube.com/watch?v=LrLcRCLwE7c",
+    	"file": "",
     	"name": "soundclip",
-    	"objectId": "22",
+    	"objectId": "13",
     	"categories": "23tywerte"
     }
 parameters: []

@@ -1,9 +1,9 @@
 _id: req_0f113c06d62649b2a50d717674ff5e6b
 type: Request
 parentId: fld_6de5342be62a49a59a88d9ed117a31d7
-modified: 1653573201752
+modified: 1654599287144
 created: 1653476585241
-url: localhost:5000/api/insertvideo
+url: localhost:5000/api/insert/video
 name: addVideo
 description: ""
 method: POST
@@ -11,10 +11,10 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"file": "https://www.youtube.com/watch?v=LrLcRCLwE7c",
-    	"name": "video2",
-    	"objectId": "22",
-    	"categories": "23tywerte"
+    	"file": "https://www.youtube.com/watch?v=nysen8FgPd8",
+    	"name": "Omgeving tuinder",
+    	"objectId": "15",
+    	"categories": "Historie"
     }
 parameters: []
 headers:

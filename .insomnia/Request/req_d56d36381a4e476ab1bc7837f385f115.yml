@@ -1,17 +1,17 @@
-_id: req_1bf7f1d359ab4b0683c60be052276068
+_id: req_d56d36381a4e476ab1bc7837f385f115
 type: Request
-parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1654600622007
-created: 1653478583116
-url: localhost:5000/api/remove/image/12
-name: delImage
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1654596825020
+created: 1654596032960
+url: localhost:5000/api/person
+name: type person
 description: ""
-method: DELETE
+method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1653480407915
+metaSortKey: -1654596032960
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
