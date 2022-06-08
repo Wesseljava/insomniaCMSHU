@@ -1,25 +1,22 @@
-_id: req_f4c34471eb9548aa82be428dea4faa62
+_id: req_e98f707bf4bf4f6eb32b3d00a86d5dbf
 type: Request
-parentId: fld_45590190486f402d8965adf8863df2b4
-modified: 1654689584696
-created: 1653907473058
-url: localhost:5000/api/insert/objecttype
-name: addObjectType
+parentId: fld_1813f65929364496a8a6279290f66fbd
+modified: 1654691477490
+created: 1654691458075
+url: localhost:5000/api/update/image
+name: updateimage
 description: ""
-method: POST
+method: PUT
 body:
   mimeType: application/json
-  text: |-
-    {
-    	"name": "locatie"
-    }
+  text: ""
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_7b886e79f1654d98812640d6df5916d0
+    id: pair_8658098bcb224634a782516e35338b59
 authentication: {}
-metaSortKey: -1653907473058
+metaSortKey: -1653480890499
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

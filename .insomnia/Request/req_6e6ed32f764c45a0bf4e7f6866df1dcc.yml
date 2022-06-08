@@ -1,28 +1,27 @@
-_id: req_4b362bffb4f44eb7a1a2117b8eb05892
+_id: req_6e6ed32f764c45a0bf4e7f6866df1dcc
 type: Request
 parentId: fld_08eb037001f0454fa5e9e09896827be7
-modified: 1654690132977
-created: 1653416680737
-url: localhost:5000/api/insert/audio
-name: addAudio
+modified: 1654691025670
+created: 1654687536340
+url: localhost:5000/api/update/audio
+name: updateAudio
 description: ""
-method: POST
+method: PUT
 body:
   mimeType: application/json
   text: |-
     {
-    	"file": "4823847238794327834",
-    	"name": "soundclip",
-    	"objectId": "",
-    	"categories": "23tywerte"
+    	"id": "9",
+    	"name": "hi my names jeff",
+    	"file": "testfileurl"	
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_722d9f8bb9c0490fa6a1ca6fcbb5fac2
+    id: pair_9f53bde6874044d08cf7f9ce73477957
 authentication: {}
-metaSortKey: -1653470080454
+metaSortKey: -1654687536340
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

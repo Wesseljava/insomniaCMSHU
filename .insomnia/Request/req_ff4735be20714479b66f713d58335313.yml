@@ -1,25 +1,22 @@
-_id: req_f4c34471eb9548aa82be428dea4faa62
+_id: req_ff4735be20714479b66f713d58335313
 type: Request
-parentId: fld_45590190486f402d8965adf8863df2b4
-modified: 1654689584696
-created: 1653907473058
-url: localhost:5000/api/insert/objecttype
-name: addObjectType
+parentId: fld_2d941b8f82fd472e8f942829117daaa3
+modified: 1654691373074
+created: 1654691242656
+url: localhost:5000/api/update/coordinates
+name: update coordinates
 description: ""
-method: POST
+method: PUT
 body:
   mimeType: application/json
-  text: |-
-    {
-    	"name": "locatie"
-    }
+  text: ""
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_7b886e79f1654d98812640d6df5916d0
+    id: pair_d8a5b7af6eea4cbd9d6f7f132dfa2459
 authentication: {}
-metaSortKey: -1653907473058
+metaSortKey: -1653563197023
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
