@@ -1,26 +1,26 @@
-_id: req_429e75451a3e462994e65d37020e9746
+_id: req_02cc5c2083c945ad8ffc4e3178e304b1
 type: Request
-parentId: fld_f9b9afb0fbae48f4af005120720e0201
-modified: 1654806622168
-created: 1649432096286
-url: http://localhost:5000/api/login
-name: login
+parentId: fld_58049c7f838d49e1881464b612a26f40
+modified: 1654815955849
+created: 1654815812838
+url: localhost:5000/api/update/object
+name: updateobject
 description: ""
-method: POST
+method: PUT
 body:
   mimeType: application/json
   text: |-
     {
-      "username": "admin",
-    	"password": "letmein"
+    	"id": "26",
+    	"name": "test"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_6d0158e7e6e54ace95ef888cb24c01f4
+    id: pair_6867a6202ee740b88fa165f9887aafd6
 authentication: {}
-metaSortKey: -1653838373482.4111
+metaSortKey: -1653838847772
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,7 +1,7 @@
 _id: req_e98f707bf4bf4f6eb32b3d00a86d5dbf
 type: Request
 parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1654691477490
+modified: 1654814142848
 created: 1654691458075
 url: localhost:5000/api/update/image
 name: updateimage
@@ -9,7 +9,10 @@ description: ""
 method: PUT
 body:
   mimeType: application/json
-  text: ""
+  text: |-
+    {
+    	
+    }
 parameters: []
 headers:
   - name: Content-Type

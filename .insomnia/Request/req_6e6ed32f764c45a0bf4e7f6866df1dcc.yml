@@ -1,7 +1,7 @@
 _id: req_6e6ed32f764c45a0bf4e7f6866df1dcc
 type: Request
 parentId: fld_08eb037001f0454fa5e9e09896827be7
-modified: 1654691025670
+modified: 1654813966592
 created: 1654687536340
 url: localhost:5000/api/update/audio
 name: updateAudio
@@ -11,8 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"id": "9",
-    	"name": "hi my names jeff",
+    	"id": "11",
     	"file": "testfileurl"	
     }
 parameters: []

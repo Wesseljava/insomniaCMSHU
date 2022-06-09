@@ -1,7 +1,7 @@
 _id: req_a66c173403484e65abb0c73238f86597
 type: Request
 parentId: fld_6de5342be62a49a59a88d9ed117a31d7
-modified: 1654691063089
+modified: 1654806774453
 created: 1654691050791
 url: localhost:5000/api/update/video
 name: updatvideo
@@ -9,7 +9,12 @@ description: ""
 method: PUT
 body:
   mimeType: application/json
-  text: ""
+  text: |-
+    {
+    	"id": "16",
+    	"file": "test",
+    	"name": "test"
+    }
 parameters: []
 headers:
   - name: Content-Type
