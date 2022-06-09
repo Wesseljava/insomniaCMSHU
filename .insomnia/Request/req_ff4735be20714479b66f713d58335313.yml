@@ -1,0 +1,26 @@
+_id: req_ff4735be20714479b66f713d58335313
+type: Request
+parentId: fld_2d941b8f82fd472e8f942829117daaa3
+modified: 1654691373074
+created: 1654691242656
+url: localhost:5000/api/update/coordinates
+name: update coordinates
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d8a5b7af6eea4cbd9d6f7f132dfa2459
+authentication: {}
+metaSortKey: -1653563197023
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

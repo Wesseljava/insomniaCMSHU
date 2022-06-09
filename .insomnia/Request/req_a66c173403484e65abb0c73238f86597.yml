@@ -1,0 +1,26 @@
+_id: req_a66c173403484e65abb0c73238f86597
+type: Request
+parentId: fld_6de5342be62a49a59a88d9ed117a31d7
+modified: 1654691063089
+created: 1654691050791
+url: localhost:5000/api/update/video
+name: updatvideo
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d4825c2a072d41daba19f82a3f69c1b8
+authentication: {}
+metaSortKey: -1653478215191
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_9e419b3dd1bf478e8fd6c36ead94a7da
+type: Request
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1654600395853
+created: 1654597091266
+url: localhost:5000/api/person/Leen Mastenbroek
+name: person name
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654597091266
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
