@@ -1,25 +1,25 @@
-_id: req_9978a76f17fd4ddcb1869ff94ed85495
+_id: req_8c13fcb88e194896b83168648552eaeb
 type: Request
-parentId: fld_58049c7f838d49e1881464b612a26f40
-modified: 1655124634630
-created: 1653295885042
-url: localhost:5000/api/object/add
-name: addobject
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1653902159164
+created: 1653302997225
+url: localhost:5000/addobject
+name: oldinject
 description: ""
 method: POST
 body:
   mimeType: application/json
   text: |-
     {
-    	"firstname": "Kees",
-    	"surname": "WESSEL ZIJN TEST OBJECT",
+    	"firstname": "Tien",
+    	"surname": "Laanszwaaier",
     	"address": "de Meern langeweg 3 4019XS",
     	"description": "Omschrijving text x10",
     	"startYear": "1980",
     	"endYear": "1992",
     	"objectType": "2",
-    	"name": "WESSEL ZIJN TEST OBJECT",
-    	"latitude": "21.923912",
+    	"name": "Tien Laanszwaaier",
+    	"latitude": " 21.923912",
     	"longitude": "42.3129032",
     	"subtype": "tuinder"
     }
@@ -27,9 +27,9 @@ parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_67a1916e891942cf9e05aae3877928bc
+    id: pair_a2d6bafc4788487bb301447662d66bf2
 authentication: {}
-metaSortKey: -1653838847622
+metaSortKey: -1653302997225
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

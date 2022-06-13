@@ -1,9 +1,9 @@
 _id: req_90b8b1adc6aa405496ac6dbce2aa2044
 type: Request
 parentId: wrk_815792eb77c74987a5845236e01c8734
-modified: 1654595967069
+modified: 1655127052551
 created: 1654595926352
-url: localhost:5000/api/wessels/list
+url: localhost:5000/api/tuinder/list
 name: list
 description: ""
 method: GET

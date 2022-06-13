@@ -1,17 +1,17 @@
-_id: req_370c2982db254e6abef8fbefac297171
+_id: req_f163ca438dc74e21941a5b4ab87d267d
 type: Request
-parentId: fld_45590190486f402d8965adf8863df2b4
-modified: 1655125409304
-created: 1653556910486
-url: localhost:5000/api/objecttypes
-name: listallobjecttype
+parentId: wrk_815792eb77c74987a5845236e01c8734
+modified: 1653579341135
+created: 1653578539589
+url: localhost:5000/api/allCoordinates
+name: Team 4 Coords
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1653556910486
+metaSortKey: -1653578539589
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

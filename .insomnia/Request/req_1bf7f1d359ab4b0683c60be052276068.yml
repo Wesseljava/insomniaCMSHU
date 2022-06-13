@@ -1,9 +1,9 @@
 _id: req_1bf7f1d359ab4b0683c60be052276068
 type: Request
 parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1653567075188
+modified: 1655121343838
 created: 1653478583116
-url: localhost:5000/api/removeimage/18
+url: localhost:5000/api/image/remove/13
 name: delImage
 description: ""
 method: DELETE

@@ -1,21 +1,21 @@
 _id: req_61e1ba4caedb4e3bbe3cb494607e3984
 type: Request
 parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1654814152907
+modified: 1655121413222
 created: 1653480890449
-url: localhost:5000/api/insert/image
+url: localhost:5000/api/image/add
 name: addImage
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: |-
+  text: >-
     {
-    	"file": "https://www.youtube.com/watch?v=LrLcRCLwE7c",
-    	"name": "imsage",
-    	"objectId": "",
-    	"categories": "23tywerte"
-    }
+    			"file": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Tis5cn7r0UOTO6MzKQ96PqUPhY6N0zfyEimUMuwQ4W36cick1WvODEl4iCn3f5KxF7M&usqp=CAU",
+    			"name": "Boerderij Mastenbroek",
+    			"objectId": 14,
+    			"categories": "extra"
+    		}
 parameters: []
 headers:
   - name: Content-Type
