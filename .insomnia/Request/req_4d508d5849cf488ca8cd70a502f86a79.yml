@@ -1,9 +1,9 @@
 _id: req_4d508d5849cf488ca8cd70a502f86a79
 type: Request
 parentId: fld_6de5342be62a49a59a88d9ed117a31d7
-modified: 1655121587929
+modified: 1653480871161
 created: 1653476554759
-url: localhost:5000/api/videos
+url: localhost:5000/api/listallvideos
 name: getAllVideos
 description: ""
 method: GET

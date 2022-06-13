@@ -1,9 +1,9 @@
 _id: req_b81977ada20947dea7836df5388ec45f
 type: Request
 parentId: fld_58049c7f838d49e1881464b612a26f40
-modified: 1655124679215
+modified: 1653839398205
 created: 1653303218481
-url: localhost:5000/api/object/remove/20
+url: localhost:5000/api/deleteobject/29
 name: deleteObject
 description: ""
 method: DELETE

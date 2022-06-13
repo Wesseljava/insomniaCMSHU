@@ -1,9 +1,9 @@
 _id: req_e98f707bf4bf4f6eb32b3d00a86d5dbf
 type: Request
 parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1655121028292
+modified: 1655144073386
 created: 1654691458075
-url: localhost:5000/api/image/update
+url: localhost:5000/api/update/image
 name: updateimage
 description: ""
 method: PUT
@@ -11,11 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"id": "14",
-    	"file": "testFile",
-    	"name": "imsage",
-    	"objectId": "",
-    	"categories": "23tywerte"
+    	
     }
 parameters: []
 headers:

@@ -1,27 +1,26 @@
-_id: req_c310d1262edf4c079ecf98ed0397cd1f
+_id: req_bed8fca56a1948fea3520ab1248732c4
 type: Request
-parentId: fld_e501b9fac3524cc69b2238c8726f7cc7
-modified: 1655123488228
-created: 1655122783186
-url: localhost:5000/api/bio/add
-name: addBio
+parentId: fld_f9b9afb0fbae48f4af005120720e0201
+modified: 1655147224113
+created: 1655147088752
+url: localhost:5000/api/login/v2
+name: LOGIN V2
 description: ""
 method: POST
 body:
   mimeType: application/json
   text: |-
-    {     
-    	"bioTitle": "Fucked up g",    
-     	"bioText": "wooooow heftig",   
-     	"objectId": "19" 
+    {
+    	"username": "admin",
+    	"password": "letmein"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_c69e9eb964f349ce97536c1a1e5d7d93
+    id: pair_2a26ba82dff845bfad211e55191c3652
 authentication: {}
-metaSortKey: -1655122783186
+metaSortKey: -1655147088752
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

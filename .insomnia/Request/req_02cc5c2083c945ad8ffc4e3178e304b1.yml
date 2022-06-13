@@ -1,9 +1,9 @@
 _id: req_02cc5c2083c945ad8ffc4e3178e304b1
 type: Request
 parentId: fld_58049c7f838d49e1881464b612a26f40
-modified: 1655124630315
+modified: 1654815955849
 created: 1654815812838
-url: localhost:5000/api/object/update
+url: localhost:5000/api/update/object
 name: updateobject
 description: ""
 method: PUT
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"id": "20",
+    	"id": "26",
     	"name": "test"
     }
 parameters: []

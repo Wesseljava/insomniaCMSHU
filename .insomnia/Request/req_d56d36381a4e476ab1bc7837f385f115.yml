@@ -1,9 +1,9 @@
 _id: req_d56d36381a4e476ab1bc7837f385f115
 type: Request
 parentId: wrk_815792eb77c74987a5845236e01c8734
-modified: 1655126535020
+modified: 1654596825020
 created: 1654596032960
-url: localhost:5000/api/persons
+url: localhost:5000/api/person
 name: type person
 description: ""
 method: GET

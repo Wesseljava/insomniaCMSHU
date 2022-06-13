@@ -1,9 +1,9 @@
 _id: req_f4c34471eb9548aa82be428dea4faa62
 type: Request
 parentId: fld_45590190486f402d8965adf8863df2b4
-modified: 1655125645703
+modified: 1654812532252
 created: 1653907473058
-url: localhost:5000/api/objecttype/add
+url: localhost:5000/api/insertobjecttype
 name: addObjectType
 description: ""
 method: POST

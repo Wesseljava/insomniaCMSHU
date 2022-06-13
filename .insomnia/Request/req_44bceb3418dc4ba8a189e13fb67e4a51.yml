@@ -1,9 +1,9 @@
 _id: req_44bceb3418dc4ba8a189e13fb67e4a51
 type: Request
 parentId: fld_1813f65929364496a8a6279290f66fbd
-modified: 1655120849202
+modified: 1653479956637
 created: 1653474727988
-url: localhost:5000/api/images
+url: localhost:5000/api/listallimages
 name: getAllImages
 description: ""
 method: GET

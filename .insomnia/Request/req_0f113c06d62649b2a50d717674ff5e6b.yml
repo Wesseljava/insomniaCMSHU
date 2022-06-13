@@ -1,9 +1,9 @@
 _id: req_0f113c06d62649b2a50d717674ff5e6b
 type: Request
 parentId: fld_6de5342be62a49a59a88d9ed117a31d7
-modified: 1655121607081
+modified: 1654811818422
 created: 1653476585241
-url: localhost:5000/api/video/add
+url: localhost:5000/api/insert/video
 name: addVideo
 description: ""
 method: POST

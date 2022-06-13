@@ -1,9 +1,9 @@
 _id: req_1bd836aa9ed542fca9e28eecfa97f0a6
 type: Request
 parentId: fld_f9b9afb0fbae48f4af005120720e0201
-modified: 1653839106941
+modified: 1655147220452
 created: 1652689691913
-url: http://localhost:5000/logout
+url: http://localhost:5000/api/logout
 name: logout
 description: ""
 method: GET
